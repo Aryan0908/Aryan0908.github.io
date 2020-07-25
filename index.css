@@ -1,0 +1,66 @@
+<style>
+.robs{color:darkblack;
+    font-size:100px;
+    text-align:center;
+    font-family:franklin gothic;}
+
+.head{font-family:bahnschrift;
+     font-size:50px;}
+.sophi{background-color:rgb(35,209,189);
+       font-size:24px;
+        font-family:consolas;
+        font-weight:bold;
+        width:50%;
+        border:5px dashed rgb(12, 11, 8);
+        border-top:15px solid rgb(220, 233, 36);
+        padding: 15px;}
+.hanson{color:white;}
+span{color:red;}
+.can-do{font-size:35px;
+         background-color:white ;
+        
+        }
+#kuri-it-can-do{font-size:24px;
+           background-color:rgb(229,50,109);
+           width:40%;
+           border:5px dashed rgb(12, 11, 8);
+           border-top:15px ridge rgb(168, 54, 221);
+           padding: 15px; 
+           position:absolute;
+           top:2600px;
+           bottom:px;
+           left:;
+           right:20px;
+            }
+#sophie-it-can-do{font-size:24px;
+    background-color:rgb(229,50,109);
+    width:40%;
+    border:5px dashed rgb(12, 11, 8);
+    border-top:15px ridge rgb(168, 54, 221);
+    padding: 15px; 
+    position:absolute;
+    top:1460px;
+    bottom:px;
+    left:;
+    right:20px;
+    
+    }
+.list{font-size:40px;}
+.all{font-size:25px;
+     line-height:30px;}
+.what{font-size:24px;
+      font-family:consolas;
+      font-weight:bold;
+      background-color:rgb(219,40,2113);
+      width:90%;
+      border:5px dashed rgb(12, 11, 8);
+      border-top:15px solid rgb(12, 11, 8);
+      padding: 15px;}
+.robotics-kuri{width:520px;
+               height:320px;}
+.size{width:90%;}
+body{margin-left:20px ;
+      margin-right: 20px;}
+
+
+     </style>
